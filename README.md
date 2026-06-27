@@ -1,4 +1,5 @@
-# Data-Analytics-Portfolio
-The Challenge: Data storage limitations and flat file structure.
-The Action: Loaded data locally into Power BI, modeled relationships without messy XLOOKUPs, and built an interactive executive layout.
-The Result: A dynamic dashboard tracking $1.37k in sales across regional managers.
+# Data Analytics Portfolio
+
+Project 1: Interactive Sales & Management Dashboard (Power BI)
+* **Objective:** Transformed raw, local Excel transactional logs into an automated executive business intelligence dashboard.
+* **Key Features:** Created dynamic visual relationships between datasets without formula overhead, implemented manager-specific slicers, and designed a top-level KPI revenue card.
