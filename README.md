@@ -32,3 +32,10 @@ Key architectural patterns implemented include:
 * `pipeline.py` - The core automation script containing data extraction and transformation logic.
 * `sales_staff_analytics.csv` - The clean, calculated analytical output layer.
 * `my_first_pipeline_output.csv` - Initial transactional processing execution logs.
+
+**4:** **Working semantic layer and interactive executive reporting app in Power BI.**
+
+* Used Visualization techniques like Clustured charts,slicer and donut chart to visualize and get the gist of report
+
+* Dashboard preview image:
+![Power BI Executive Dashboard Preview](dashboard_preview.png)
